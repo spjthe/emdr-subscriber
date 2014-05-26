@@ -1,0 +1,5 @@
+messagequeue.host=localhost
+messagequeue.port=5672
+messagequeue.user=root
+messagequeue.password=password
+messagequeue.vhost=/emdr
