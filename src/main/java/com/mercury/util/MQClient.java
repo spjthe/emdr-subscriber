@@ -2,5 +2,5 @@ package com.mercury.util;
 
 public interface MQClient {
 
-    void put(String queue, Object object);
+  void put(String queue, Object object);
 }
